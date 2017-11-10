@@ -12,4 +12,4 @@ Original Igbo Boy Bot. Sells Okirika. My DevFest17 talk on DialogFlow!!! Chinedu
 </iframe>
 ```
 
-Got any idea to make Chinedu better, Let me know!
+Got any idea to make Chinedu better, Let me know by creating an issue or message me on Twitter via [@goodnesskayode](https://twitter.com/goodnesskayode) !
